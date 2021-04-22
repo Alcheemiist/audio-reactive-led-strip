@@ -4,7 +4,11 @@ https://www.youtube.com/watch?v=HNtM7jH5GXg&ab_channel=ScottLawson
 
 other tutorial : 
   - https://www.youtube.com/watch?v=plAXuJsSTn8&ab_channel=MinerTechTips
-
+  - https://www.youtube.com/watch?v=yninmUrl4C0&ab_channel=Nerdforge ### node mcu control 3 esp eachone commande a led strip and an audio input to visualize realtime 
+  -
+  -
+  -
+  
 # Audio Reactive LED Strip
 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi.
 
